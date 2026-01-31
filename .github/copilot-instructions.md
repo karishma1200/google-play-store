@@ -1,6 +1,0 @@
-- [x] Scaffold Python data science project
-- [ ] Extract data from PDF
-- [ ] Clean and structure extracted data
-- [ ] Perform exploratory data analysis
-- [ ] Visualize insights from data
-- [ ] Document project and usage
