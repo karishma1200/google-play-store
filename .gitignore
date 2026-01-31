@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+extracted_text.txt
+apps_data.csv
